@@ -1,0 +1,18 @@
+Classical Mechanics
+Electromagnetism
+Thermodynamics
+Quantum Mechanics
+Relativity
+Wave Mechanics
+Statistical Mechanics
+Optics
+Acoustics
+Condensed Matter Physics
+Particle Physics
+Astrophysics
+Nuclear Physics
+Atomic Physics
+Solid State Physics
+Fluid Dynamics
+Plasma Physics
+Cosmology
